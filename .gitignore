@@ -1,4 +1,4 @@
-.gitignore
-
-/.trash/
-/.obsidian/
+### Obsidian ###
+# config dir
+.trash/
+.obsidian/
