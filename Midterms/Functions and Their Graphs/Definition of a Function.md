@@ -13,10 +13,12 @@ The number going in can only put out one changed number. You can't have 'x' outp
 
 See for the example on the left, 'b' has two possible values making it not a function.
 
-Additional study materials:
+Additional Readings:
 https://www.geeksforgeeks.org/maths/types-of-functions/
 https://www.mathsisfun.com/sets/function.html
 https://www.britannica.com/science/function-mathematics
 https://www.cuemath.com/calculus/What-are-functions/
 
 [[Algebraic and Transcendental Functions]]
+[[Functions and Their Graphs]]
+[[Midterms Index]]
