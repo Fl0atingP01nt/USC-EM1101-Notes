@@ -12,6 +12,7 @@ Cubic
 Absolute-value
 Piecewise
 ### [Even and Odd Functions](Even%20and%20Odd%20Functions.md)
+
 ### [Properties of Functions](Properties%20of%20Functions.md)
 Intercepts
 Domain And Range

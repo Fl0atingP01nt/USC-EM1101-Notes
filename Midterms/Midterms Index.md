@@ -12,15 +12,7 @@
 ### Continuity of a function
 
 
-## **Derivatives of a Function**
-### Definition of Derivatives
-### Geometric Interpretation of Derivatives
-### 3-step rule
-### Differentiation Formulas
-Polynomial Functions
-Product rule
-Quotient Rule
-Chain Rule
+![[Derivatives of a Function]]
 
 
 ## **Differentiation of Transcendental Functions**

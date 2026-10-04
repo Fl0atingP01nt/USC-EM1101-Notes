@@ -1,4 +1,4 @@
-The graphs of common functions are usually used to see properties of a certain function that are often not obviously seen when presented numerically.
+The graphs of common functions are usually used to see properties of a certain function that are often not obviously seen when presented numerically. All you need to do is familiarize the faces of the following and you're most likely good to go.
 # Linear
 ![Linear Graph](https://cdn1.byjus.com/wp-content/uploads/2021/07/identity-function-graph.png)
 
