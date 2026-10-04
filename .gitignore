@@ -1,4 +1,4 @@
 .gitignore
 
-.trash/
-.obsidian/
+/.trash/
+/.obsidian/
